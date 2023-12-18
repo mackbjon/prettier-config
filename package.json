@@ -1,0 +1,16 @@
+{
+  "name": "@mackbjon/prettier-config",
+  "version": "0.1.0",
+  "description": "My preferred Prettier settings",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mackbjon/prettier-config.git"
+  },
+  "author": "Jon Mackenzie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mackbjon/prettier-config/issues"
+  },
+  "homepage": "https://github.com/mackbjon/prettier-config#readme"
+}
